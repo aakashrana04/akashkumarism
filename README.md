@@ -1,4 +1,4 @@
-[![MasterHead](https://c.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif)](https://akashkumarism.io)
+[![MasterHead](https://c.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif)](https://aakashrana04.io)
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="center">A passionate coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
